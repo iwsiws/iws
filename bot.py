@@ -2,7 +2,7 @@ from telebot import *
 from telebot.types import *
 
 admin_id = 267122534
-token = "1842000097:AAFv0_lmbXh1gb9GqyNcsQubo9uEXmVKiIo"
+token = "1966394597:AAGfayfBS9Gr88QpJ2nYYNKQU5RVVMvb31A"
 bot = TeleBot(token)
 
 markup = ReplyKeyboardMarkup(resize_keyboard = True, one_time_keyboard = True)
